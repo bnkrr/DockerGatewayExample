@@ -8,7 +8,7 @@ Then, run commands below
 
 ```shell
 git clone https://github.com/bnkrr/DockerGatewayExample.git
-cd xxx
+cd DockerGatewayExample
 /bin/sh full-network-setup.sh
 ```
 
